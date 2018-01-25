@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+
 
 puts "Starting..."
 
